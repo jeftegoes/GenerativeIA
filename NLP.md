@@ -1,4 +1,4 @@
-# Generative AI <!-- omit in toc -->
+# NLP <!-- omit in toc -->
 
 ## Contents <!-- omit in toc -->
 

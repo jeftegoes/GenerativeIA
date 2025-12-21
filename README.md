@@ -141,7 +141,7 @@
 ### 1.2.3. Haceb - Technical Customer Service (Appliances)
 
 - Colombian appliance manufacturer using AI for field support.
-- AI assistant (“Wilson”) supports **245 technicians**.
+- AI assistant ("Wilson") supports **245 technicians**.
 - Provides instant access to manuals and service history for:
   - 1,200+ appliance models
   - Up to 40 failure types per model
@@ -149,7 +149,7 @@
   - **8–10% reduction in service time**
   - Saves **83 work hours per day**
 
-### 1.2.4. Adobe - Creative Productivity & Collaboration
+### 1.2.4. Adobe - Creawtive Productivity & Collaboration
 
 - Integrates generative AI across its creative software suite.
 - Benefits:
@@ -174,7 +174,7 @@
   - Personalized shopping experiences
   - Streamlined returns
   - Dynamic product recommendations
-- AR platform (“Retina”) generates tens of thousands of 3D assets.
+- AR platform ("Retina") generates tens of thousands of 3D assets.
 - Results:
   - **10× increase** in AR adoption
   - Reduced product returns

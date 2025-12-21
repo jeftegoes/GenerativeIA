@@ -1,4 +1,4 @@
-# Generative AI <!-- omit in toc -->
+# LLMs <!-- omit in toc -->
 
 ## Contents <!-- omit in toc -->
 
@@ -174,10 +174,10 @@
 
 - Meaning in language is highly dependent on context.
 - Consider the sentence:
-  - _“The dog didn’t cross the street because it was too tired.”_
-    - Here, **“it” refers to the dog**.
-  - _“The dog didn’t cross the street because it was too wide.”_
-    - In this case, **“it” refers to the street**.
+  - _"The dog didn’t cross the street because it was too tired."_
+    - Here, **"it" refers to the dog**.
+  - _"The dog didn’t cross the street because it was too wide."_
+    - In this case, **"it" refers to the street**.
 - A single word change completely alters the meaning.
 
 ## 9.5. Limitations of Earlier Models
@@ -203,7 +203,7 @@
 
 ## 9.8. Business and Innovation Potential
 
-- The transformer architecture is the **“secret sauce”** behind LLM success.
+- The transformer architecture is the **"secret sauce"** behind LLM success.
 - It enables applications that drive:
   - Smarter automation
   - Deeper insight from unstructured data
