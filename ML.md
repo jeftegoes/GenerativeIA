@@ -3,7 +3,7 @@
 ## Contents <!-- omit in toc -->
 
 - [1. Machine Learning](#1-machine-learning)
-  - [1.1. What Is Machine Learning (ML)?](#11-what-is-machine-learning-ml)
+  - [1.1. Definition](#11-definition)
   - [1.2. Machine Learning Within AI](#12-machine-learning-within-ai)
   - [1.3. Why ML Is Booming Now](#13-why-ml-is-booming-now)
   - [1.4. Why Businesses Use Machine Learning](#14-why-businesses-use-machine-learning)
@@ -13,15 +13,15 @@
   - [2.3. Clustering](#23-clustering)
   - [2.4. Association Rule Learning](#24-association-rule-learning)
 - [3. Real-World Machine Learning Use Cases](#3-real-world-machine-learning-use-cases)
-    - [3.0.1. Regression](#301-regression)
-    - [3.0.2. Classification](#302-classification)
-    - [3.0.3. Clustering](#303-clustering)
-    - [3.0.4. Association Rule Learning](#304-association-rule-learning)
+  - [3.1. Regression](#31-regression)
+  - [3.2. Classification](#32-classification)
+  - [3.3. Clustering](#33-clustering)
+  - [3.4. Association Rule Learning](#34-association-rule-learning)
 - [4. Key Takeaways](#4-key-takeaways)
 
 # 1. Machine Learning
 
-## 1.1. What Is Machine Learning (ML)?
+## 1.1. Definition
 
 - Machine Learning is a **discipline within Artificial Intelligence** that teaches computers to:
   - Learn from data
@@ -32,9 +32,9 @@
 ## 1.2. Machine Learning Within AI
 
 - Hierarchy of concepts:
-  - **Artificial Intelligence (AI)** → broad field
-    - **Machine Learning (ML)** → learning from data
-      - **Deep Learning (DL)** → neural networks with many layers
+  - **Artificial Intelligence (AI)** -> broad field
+    - **Machine Learning (ML)** -> learning from data
+      - **Deep Learning (DL)** -> neural networks with many layers
 - These terms are often confused, but ML is a **subset of AI**, and deep learning is a **subset of ML**.
 
 ## 1.3. Why ML Is Booming Now
@@ -116,7 +116,7 @@
 
 # 3. Real-World Machine Learning Use Cases
 
-### 3.0.1. Regression
+## 3.1. Regression
 
 - **Bellwether**
   - Predicts floods, wildfires, and storms in minutes instead of hours.
@@ -125,7 +125,7 @@
   - Identifies failure risks in medical product batches.wwww
   - Revenue doubled from 2016 to 2024.
 
-### 3.0.2. Classification
+## 3.2. Classification
 
 - **American Express**
   - Detects credit card fraud.
@@ -134,7 +134,7 @@
   - Predicts company credit risk using decision trees.
   - Achieved over **64% accuracy**.
 
-### 3.0.3. Clustering
+## 3.3. Clustering
 
 - **Spotify**
   - Uses clustering and filtering to personalize music recommendations.
@@ -143,7 +143,7 @@
   - Improved portfolio return explainability from **74% to 85%**.
   - Automated hours of analyst work.
 
-### 3.0.4. Association Rule Learning
+## 3.4. Association Rule Learning
 
 - **Tourism in Bali**
   - Identified attraction combinations and seasonal trends.
