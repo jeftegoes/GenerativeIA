@@ -291,7 +291,7 @@
 - Enabled patient self-check-in using RPA.
 - Results:
   - **50% reduction** in staff effort
-  - **2× improvement** in turnaround time
+  - **2x improvement** in turnaround time
   - Higher quality and more consistent patient data
 
 ## 4.6. Logistics - Billing and Operations
@@ -306,7 +306,7 @@
 - Automated invoice processing at scale.
 - Results:
   - **85% reduction** in effort
-  - **10× improvement** in turnaround time
+  - **10x improvement** in turnaround time
 
 ## 4.8. Professional Services (Global) - Tax & Reporting
 

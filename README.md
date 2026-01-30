@@ -176,7 +176,7 @@
   - Dynamic product recommendations
 - AR platform ("Retina") generates tens of thousands of 3D assets.
 - Results:
-  - **10× increase** in AR adoption
+  - **10x increase** in AR adoption
   - Reduced product returns
   - Stock price doubled between 2023–2025
 

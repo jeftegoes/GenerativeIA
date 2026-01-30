@@ -24,9 +24,9 @@
 ## 1.1. Definition
 
 - Machine Learning is a **discipline within Artificial Intelligence** that teaches computers to:
-  - Learn from data
-  - Identify patterns
-  - Make predictions or decisions
+  - Learn from data.
+  - Identify patterns.
+  - Make predictions or decisions.
 - It relies on **experience (historical data)** to generate insights and **new data** to make predictions.
 
 ## 1.2. Machine Learning Within AI
