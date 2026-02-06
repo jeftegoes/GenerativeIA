@@ -2,264 +2,181 @@
 
 ## Contents <!-- omit in toc -->
 
-- [1. GenAI](#1-genai)
-  - [1.1. Business Applications of Generative AI - Enhanced Overview](#11-business-applications-of-generative-ai---enhanced-overview)
-    - [1.1.1. Customer Service Automation](#111-customer-service-automation)
-    - [1.1.2. Content Creation and Curation](#112-content-creation-and-curation)
-    - [1.1.3. Language Translation and Localization](#113-language-translation-and-localization)
-    - [1.1.4. Automated Software Development and Code Generation](#114-automated-software-development-and-code-generation)
-    - [1.1.5. Legal and Compliance Document Review](#115-legal-and-compliance-document-review)
-    - [1.1.6. Sentiment Analysis and Market Research](#116-sentiment-analysis-and-market-research)
-    - [1.1.7. Human Resources Automation](#117-human-resources-automation)
-    - [1.1.8. Knowledge-Based Information Retrieval](#118-knowledge-based-information-retrieval)
-  - [1.2. Real-World Business Value of AI - 10 Practical Use Cases](#12-real-world-business-value-of-ai---10-practical-use-cases)
-    - [1.2.1. Goldman Sachs - Internal Productivity \& Knowledge Work](#121-goldman-sachs---internal-productivity--knowledge-work)
-    - [1.2.2. Cera (UK) - Healthcare \& Elderly Care](#122-cera-uk---healthcare--elderly-care)
-    - [1.2.3. Haceb - Technical Customer Service (Appliances)](#123-haceb---technical-customer-service-appliances)
-    - [1.2.4. Adobe - Creative Productivity \& Collaboration](#124-adobe---creative-productivity--collaboration)
-    - [1.2.5. Yum! Brands - AI-Powered Fast Food Operations](#125-yum-brands---ai-powered-fast-food-operations)
-    - [1.2.6. Walmart - Retail, Personalization \& Immersive Commerce](#126-walmart---retail-personalization--immersive-commerce)
-    - [1.2.7. BMW - Connected Vehicles \& Personalized Experiences](#127-bmw---connected-vehicles--personalized-experiences)
-    - [1.2.8. LexisNexis - Legal Research \& Knowledge Work](#128-lexisnexis---legal-research--knowledge-work)
-    - [1.2.9. Inspection1 - AI-Driven Quality Inspection (Automotive)](#129-inspection1---ai-driven-quality-inspection-automotive)
-    - [1.2.10. BrowserStack - Software Testing \& QA Automation](#1210-browserstack---software-testing--qa-automation)
-- [2. Natural Language Processing (NLP)](#2-natural-language-processing-nlp)
-- [3. Large Language Models (LLMs)](#3-large-language-models-llms)
-- [4. CV](#4-cv)
-- [5. DL](#5-dl)
-- [6. RL](#6-rl)
-- [7. RPA](#7-rpa)
-- [8. ML](#8-ml)
+- [1. Overview](#1-overview)
+  - [1.1. GenAI - Generative AI](#11-genai---generative-ai)
+  - [1.2. NLP - Natural Language Processing](#12-nlp---natural-language-processing)
+  - [1.3. LLMs - Large Language Models](#13-llms---large-language-models)
+  - [1.4. CV - Computer Vision](#14-cv---computer-vision)
+  - [1.5. DL - Deep Learning](#15-dl---deep-learning)
+  - [1.6. RL - Reinforcement Learning](#16-rl---reinforcement-learning)
+  - [1.7. RPA - Robotic Process Automation](#17-rpa---robotic-process-automation)
+  - [1.8. ML - Machine Learning](#18-ml---machine-learning)
+- [2. Biological Fundamentals of Human Neural Networks](#2-biological-fundamentals-of-human-neural-networks)
+  - [2.1. Introduction](#21-introduction)
+  - [2.2. Human Neural Networks](#22-human-neural-networks)
+  - [2.3. What Is a Neural Network?](#23-what-is-a-neural-network)
+  - [2.4. Structure of a Neuron](#24-structure-of-a-neuron)
+  - [2.5. Synapse and Information Processing](#25-synapse-and-information-processing)
+- [3. Artificial Neuron: The Perceptron](#3-artificial-neuron-the-perceptron)
+  - [3.1. Introduction](#31-introduction)
+  - [3.2. From Biological to Artificial Neurons](#32-from-biological-to-artificial-neurons)
+  - [3.3. Structure of an Artificial Neuron](#33-structure-of-an-artificial-neuron)
+  - [3.4. Example: Sum and Step Functions](#34-example-sum-and-step-functions)
+  - [3.5. Learning with the AND Logical Operator](#35-learning-with-the-and-logical-operator)
+  - [3.6. Training the Perceptron](#36-training-the-perceptron)
+  - [3.7. Knowledge Representation](#37-knowledge-representation)
+  - [3.8. Single-Layer Perceptron](#38-single-layer-perceptron)
+  - [3.9. Linear Separability](#39-linear-separability)
+  - [3.10. Limitation of Single-Layer Perceptrons](#310-limitation-of-single-layer-perceptrons)
+  - [3.11. Conclusion](#311-conclusion)
 
-# 1. GenAI
+# 1. Overview
 
-- **What GenAI Is**
-  - A branch of Artificial Intelligence focused on **creating new content**.
-  - Generates text, images, audio, video, and code.
-  - Learns patterns from large datasets to produce **human-like outputs**.
+## 1.1. GenAI - Generative AI
 
-## 1.1. Business Applications of Generative AI - Enhanced Overview
+[GenAI](GenAI.md)
 
-- **Overview**
-  - Generative AI is transforming how businesses operate by automating tasks, enhancing decision-making, and improving customer and employee experiences.
-  - Below are **eight key applications** where generative AI and large language models deliver significant business value.
-
-### 1.1.1. Customer Service Automation
-
-- AI-powered **chatbots and virtual assistants** provide:
-  - 24/7 customer support
-  - Instant responses to common questions
-  - Faster issue resolution
-- Results include reduced support costs and improved customer satisfaction.
-
-### 1.1.2. Content Creation and Curation
-
-- Businesses use AI to:
-  - Generate marketing copy, reports, and articles
-  - Edit and summarize documents
-  - Create personalized emails and communications
-- This accelerates content production while maintaining consistency and quality.
-
-### 1.1.3. Language Translation and Localization
-
-- Generative AI enables:
-  - Real-time, accurate language translation
-  - Localization of content for different regions and cultures
-- This allows companies to **scale globally** and reach broader audiences without language barriers.
-
-### 1.1.4. Automated Software Development and Code Generation
-
-- AI coding assistants (often called **Copilots**) help developers by:
-  - Generating code snippets
-  - Debugging issues
-  - Suggesting solutions and best practices
-- Research from GitHub shows developers using Copilot complete tasks **up to 55% faster**.
-
-### 1.1.5. Legal and Compliance Document Review
-
-- AI systems can:
-  - Review contracts and legal documents
-  - Identify risks and inconsistencies
-  - Support compliance with regulations
-- This reduces manual effort while improving accuracy and consistency.
-
-### 1.1.6. Sentiment Analysis and Market Research
-
-- Generative AI analyzes:
-  - Customer feedback
-  - Social media conversations
-  - Market trends
-- Businesses gain insights into **customer sentiment and demand**, supporting data-driven strategic planning.
-
-### 1.1.7. Human Resources Automation
-
-- AI streamlines HR processes such as:
-  - Resume screening
-  - Employee onboarding
-  - Answering internal employee questions
-- This improves operational efficiency and enhances the employee experience.
-
-### 1.1.8. Knowledge-Based Information Retrieval
-
-- Generative AI enhances access to organizational knowledge by:
-  - Searching internal documentation intelligently
-  - Providing contextual and accurate answers
-- Employees can find critical information faster, boosting productivity and decision-making.
-
-- **Key Takeaway**
-  - These eight applications represent just a fraction of what generative AI can do in business.
-  - Organizations that strategically integrate these capabilities can drive **efficiency, innovation, and sustainable growth**.
-  - Now is the ideal time to evaluate where generative AI can create the greatest impact within your business.
-
-## 1.2. Real-World Business Value of AI - 10 Practical Use Cases
-
-- **Overview**
-  - AI is already delivering **measurable value across industries**, improving productivity, efficiency, quality, and customer experience.
-  - Below are **ten real-world examples** of companies successfully applying AI today.
-
-### 1.2.1. Goldman Sachs - Internal Productivity & Knowledge Work
-
-- Uses a generative AI assistant for bankers and traders.
-- Automates:
-  - Document summarization
-  - Email drafting
-  - Speech note preparation
-- Adopted by **10,000+ employees**.
-- Results: Significant productivity gains in a highly regulated environment.
-
-### 1.2.2. Cera (UK) - Healthcare & Elderly Care
-
-- AI-driven home care provider improving patient outcomes.
-- Capabilities:
-  - Predicts **83% of falls before they occur**
-  - Flags **80%+ health risks in advance**
-- Outcomes:
-  - Up to **70% reduction in hospitalizations**
-  - Saves the NHS ~**£1 million per day**
-  - Cuts admin time by 80% and travel time by 50%
-
-### 1.2.3. Haceb - Technical Customer Service (Appliances)
-
-- Colombian appliance manufacturer using AI for field support.
-- AI assistant ("Wilson") supports **245 technicians**.
-- Provides instant access to manuals and service history for:
-  - 1,200+ appliance models
-  - Up to 40 failure types per model
-- Results:
-  - **8–10% reduction in service time**
-  - Saves **83 work hours per day**
-
-### 1.2.4. Adobe - Creawtive Productivity & Collaboration
-
-- Integrates generative AI across its creative software suite.
-- Benefits:
-  - Faster creative workflows
-  - Higher design precision
-  - Improved collaboration
-- Business impact:
-  - Consistent **10%+ annual revenue growth**
-
-### 1.2.5. Yum! Brands - AI-Powered Fast Food Operations
-
-- Parent company of Taco Bell, Pizza Hut, and KFC.
-- Deploying AI voice ordering at **500 locations**.
-- Goal: Route **100% of orders through digital channels**.
-- Market impact:
-  - Stock increased by ~**30%** following AI strategy announcement.
-
-### 1.2.6. Walmart - Retail, Personalization & Immersive Commerce
-
-- Uses AI, GenAI, and augmented reality across omnichannel retail.
-- Capabilities:
-  - Personalized shopping experiences
-  - Streamlined returns
-  - Dynamic product recommendations
-- AR platform ("Retina") generates tens of thousands of 3D assets.
-- Results:
-  - **10x increase** in AR adoption
-  - Reduced product returns
-  - Stock price doubled between 2023–2025
-
-### 1.2.7. BMW - Connected Vehicles & Personalized Experiences
-
-- MyBMW app serves **13 million active users**.
-- Processes:
-  - **450 million daily requests**
-  - **3.2 TB of data per day**
-- GenAI enables:
-  - Preference prediction
-  - Real-time, personalized responses
-- Outcome: Faster, smarter, and more intuitive driver interactions.
-
-### 1.2.8. LexisNexis - Legal Research & Knowledge Work
-
-- Launched **Prodigy**, a multimodal legal AI assistant (2025).
-- Built using proprietary models plus GPT-4 and Claude.
-- Capabilities:
-  - Conversational legal search
-  - Case summarization
-  - Automated drafting
-- Impact:
-  - Reduces research time from hours to minutes
-  - Increases lawyer productivity rather than replacing roles
-  - CEO predicts billing rates up to **$10,000/hour by 2030**
-
-### 1.2.9. Inspection1 - AI-Driven Quality Inspection (Automotive)
-
-- Combines computer vision with generative AI.
-- Deployed across mobile, standalone, and assembly-line inspections.
-- Results after 40 million inspections:
-  - **85% defect detection accuracy**
-  - **45% cost reduction**
-  - **60% output increase**
-  - ROI achieved in **3 months**
-
-### 1.2.10. BrowserStack - Software Testing & QA Automation
-
-- AI-enhanced testing platform for modern software teams.
-- AI acts as an intelligent teammate:
-  - Generates tests automatically
-  - Adapts to UI changes
-  - Detects issues early
-- Results:
-
-  - **90%+ test coverage**
-  - **70% reduction in QA cycles**
-  - **60% lower test maintenance**
-  - Up to **30% faster time to market**
-
-- **Key Takeaway**
-  - AI is no longer experimental—it is delivering **massive, measurable value today**.
-  - Across finance, healthcare, retail, manufacturing, legal, and software, AI:
-    - Boosts productivity
-    - Reduces costs
-    - Improves quality and speed
-  - These examples provide a blueprint for identifying how AI can drive impact in your own industry.
-
-# 2. Natural Language Processing (NLP)
+## 1.2. NLP - Natural Language Processing
 
 [NLP](NLP.md)
 
-# 3. Large Language Models (LLMs)
+## 1.3. LLMs - Large Language Models
 
 [LLMs](LLMs.md)
 
-# 4. CV
+## 1.4. CV - Computer Vision
 
 [CV](CV.md)
 
-# 5. DL
+## 1.5. DL - Deep Learning
 
 [DL](DL.md)
 
-# 6. RL
+## 1.6. RL - Reinforcement Learning
 
 [RL](RL.md)
 
-# 7. RPA
+## 1.7. RPA - Robotic Process Automation
 
 [RPA](RPA.md)
 
-# 8. ML
+## 1.8. ML - Machine Learning
 
 [ML](ML.md)
+
+# 2. Biological Fundamentals of Human Neural Networks
+
+## 2.1. Introduction
+
+- This presents the basic biological concepts of human neural networks, which are essential for understanding artificial neural networks.
+- Artificial neural networks are inspired by how the human brain works.
+
+## 2.2. Human Neural Networks
+
+- The human brain contains **more than 100 billion neurons**.
+- Neurons are highly **interconnected**, forming a complex network.
+- **Information flows** from one neuron to another through these connections.
+- This flow of information enables human abilities such as walking, seeing, speaking, thinking, and learning.
+  - Learning new skills, such as a new language, leads to the creation of **new neural connections** in the brain.
+    ![Human Neural Networks](/Images/HumanNeuralNetworks.jpg)
+
+## 2.3. What Is a Neural Network?
+
+- A neural network is a set of interconnected neurons that exchange information.
+
+## 2.4. Structure of a Neuron
+
+- A neuron has four main components:
+  1. **Dendrites** – receive data from other neurons.
+  2. **Cell body** – processes the received data.
+  3. **Axon** – transmits signals to other neurons.
+  4. **Axon terminals** – send signals to connected neurons.
+- Together, these components allow the neuron to function as an **information processing unit**.
+  ![Structure of a Neuron](/Images/StructureNeuron.png)
+
+## 2.5. Synapse and Information Processing
+
+- A **synapse** is the transmission of information between neurons.
+- Information is transmitted as **electrical signals**.
+- This process starts at the dendrites and ends at the axon terminals.
+- During a synapse, **chemical substances** are released and affect the electrical potential of the receiving neuron.
+  - The electrical potential determines how information is processed and leads to decision-making in the brain.
+
+# 3. Artificial Neuron: The Perceptron
+
+## 3.1. Introduction
+
+- How an artificial neuron, called a **perceptron**, works?
+  - It builds on the biological fundamentals of neural networks, especially how neurons process and transmit information.
+
+## 3.2. From Biological to Artificial Neurons
+
+- Biological neurons transmit **electrical signals**.
+- Artificial neurons transmit **data**.
+- Inputs represent information from the environment.
+- Outputs represent the final response, such as a prediction.
+
+## 3.3. Structure of an Artificial Neuron
+
+- An artificial neuron consists of:
+  - **Inputs** (data from the environment)
+  - **Weights** (importance of each input)
+  - **Sum function**
+  - **Activation function** (step function)
+  - **Output**
+- Each input is multiplied by its corresponding weight, and the results are summed.
+
+## 3.4. Example: Sum and Step Functions
+
+1. Inputs are multiplied by weights.
+2. The results are added using the **sum function**.
+3. The **step function** is applied:
+   - If the sum ≥ 1, output = 1
+   - Otherwise, output = 0
+
+- This process defines the perceptron’s prediction.
+  ![Artificial Neuron -> Perceptron = 1](/Images/ArtificialNeuron_1.png)
+  ![Artificial Neuron -> Perceptron = 0](/Images/ArtificialNeuron_2.png)
+
+## 3.5. Learning with the AND Logical Operator
+
+The perceptron is trained to learn the **AND** logical operator:
+
+- Inputs: x¹ and x²
+- Output (class): true (1) or false (0)
+- **Truth table**
+  ![alt](/Images/TruthTable.png)
+
+## 3.6. Training the Perceptron
+
+1. Apply the sum and activation functions to each row.
+2. Compare the predicted output with the expected output.
+3. Calculate the **error**.
+4. Update the weights using the formula:
+   - new weight = current weight + (learning rate × input × error)
+   - The **learning rate** controls how fast the weights are adjusted.
+   - Training continues until the error becomes zero.
+
+## 3.7. Knowledge Representation
+
+- The **knowledge of a neural network is stored in its weights**.
+- Training adjusts weights until the network correctly classifies all inputs.
+
+## 3.8. Single-Layer Perceptron
+
+![alt](/Images/SingleLayerPerceptron.png)
+
+## 3.9. Linear Separability
+
+- **AND** and **OR** operators are **linearly separable** (can be separated by a straight line).
+- **XOR** is **not linearly separable**, meaning a single straight line cannot separate its classes.
+
+## 3.10. Limitation of Single-Layer Perceptrons
+
+- **Single-layer perceptrons** work well for simple problems.
+- They cannot solve complex or non-linearly separable problems.
+- More complex architectures are required.
+
+## 3.11. Conclusion
+
+- To solve real-world problems, neural networks need more advanced structures.

@@ -47,32 +47,32 @@
 
 ## 3.1. Reinforcement Learning and Human Learning
 
-- Very similar to how humans learn:
-  - Pain = negative reward
-  - Pleasure = positive reward
-- Example:
+- **Very similar to how humans learn**
+  - Pain = negative reward.
+  - Pleasure = positive reward.
+- **Example**
   - A baby learns to walk by associating actions with rewards or discomfort.
 - Because of this similarity, RL is often considered the **closest approach to human-like learning** in AI.
 
 ## 3.2. Why Reinforcement Learning Is So Powerful
 
 1. **No Labeled Data Required**
-   - Learns from rewards, not annotated datasets
-   - Scales better as data volumes grow
+   - Learns from rewards, not annotated datasets.
+   - Scales better as data volumes grow.
 2. **Highly Innovative**
-   - Can discover **new strategies** humans never considered
-   - Not limited to imitating past behavior
+   - Can discover **new strategies** humans never considered.
+   - Not limited to imitating past behavior.
 3. **Bias Resistance**
-   - Avoids bias introduced by human-labeled data
-   - Learns directly from outcomes
+   - Avoids bias introduced by human-labeled data.
+   - Learns directly from outcomes.
 4. **Online Learning**
-   - Learns and improves **in real time**
-   - No need for retraining and redeployment
+   - Learns and improves **in real time**.
+   - No need for retraining and redeployment.
 5. **Goal-Oriented**
-   - Optimizes sequences of actions
-   - Ideal for long-term objectives (e.g., ROI, navigation, gameplay)
+   - Optimizes sequences of actions.
+   - Ideal for long-term objectives (e.g., ROI, navigation, gameplay).
 6. **Adaptive**
-   - Automatically adjusts to new environments and conditions
+   - Automatically adjusts to new environments and conditions.
 
 # 4. Why Reinforcement Learning Is the Future
 
@@ -88,53 +88,53 @@
 # 5. Reinforcement Learning in Marketing (5 Key Applications)
 
 1. **Personalized Recommendations**
-   - Real-time learning from customer interactions
-   - More adaptive than traditional recommender systemsw
+   - Real-time learning from customer interactions.
+   - More adaptive than traditional recommender systems.
 2. **Advertising Budget Optimization**
-   - Dynamically allocates bids for maximum ROI
-   - Used by companies like Alibaba
+   - Dynamically allocates bids for maximum ROI.
+   - Used by companies like Alibaba.
 3. **Ad Content Optimization**
-   - Replaces static A/B testing
-   - Quickly converges on the best-performing content
+   - Replaces static A/B testing.
+   - Quickly converges on the best-performing content.
 4. **Customer Lifetime Value Optimization**
-   - Focuses on long-term customer relationships
-   - Reduces overexposure and churn
+   - Focuses on long-term customer relationships.
+   - Reduces overexposure and churn.
 5. **Price & Plan Response Prediction**
-   - Uses inverse reinforcement learning
-   - Infers customer goals and preferences
+   - Uses inverse reinforcement learning.
+   - Infers customer goals and preferences.
 
 # 6. 10 Real-World Reinforcement Learning Use Cases
 
 1. **Intel - Semiconductor Manufacturing**
-   - > 90% accuracy in defect detection
-   - Faster resolution and global knowledge sharing
+   - > 90% accuracy in defect detection.
+   - Faster resolution and global knowledge sharing.
 2. **Google (DeepMind) - Data Center Energy**
-   - Reduced cooling energy usage by **up to 40%**
+   - Reduced cooling energy usage by **up to 40%**.
 3. **Decision Service - Digital Advertising**
-   - 25–30% CTR improvement
-   - 18% revenue lift
+   - 25–30% CTR improvement.
+   - 18% revenue lift.
 4. **Trendyol - Email Marketing**
-   - +30% CTR
-   - +60% response rate
-   - +130% conversion rate
+   - +30% CTR.
+   - +60% response rate.
+   - +130% conversion rate.
 5. **Optoro - Retail Returns Optimization**
-   - Converts up to 67% of refunds into exchanges
-   - Turns returns into revenue opportunities
+   - Converts up to 67% of refunds into exchanges.
+   - Turns returns into revenue opportunities.
 6. **Electa - Smart Energy Systems**
-   - 20% energy reduction
-   - No comfort loss for residents
+   - 20% energy reduction.
+   - No comfort loss for residents.
 7. **Mercedes-Benz - Autonomous Driving**
-   - First Level 3 system certified up to 95 km/h
-   - Covers 13,000+ km of Autobahn
+   - First Level 3 system certified up to 95 km/h.
+   - Covers 13,000+ km of Autobahn.
 8. **Inventory Management (Unnamed Company)**
-   - 32% operational cost reduction
-   - Reduced waste and environmental impact
+   - 32% operational cost reduction.
+   - Reduced waste and environmental impact.
 9. **Cambridge University - Healthcare**
-   - Improved treatment strategies for sepsis
-   - Outperformed traditional medical decision policies
+   - Improved treatment strategies for sepsis.
+   - Outperformed traditional medical decision policies.
 10. **Dynamic Coupon Targeting**
-    - Nearly **2x effectiveness** vs static methods
-    - +63% increase in gross merchandise value
+    - Nearly **2x effectiveness** vs static methods.
+    - +63% increase in gross merchandise value.
 
 # 7. Key Takeaways
 

@@ -68,7 +68,7 @@
 
 # 6. Learning and Application
 
-- LLMs learn by training on large-scale datasets, allowing them to generalize knowledge across domains.
+- LLMs learn by training on large-scale datasets, allowing them to **generalize** knowledge across domains.
 - Across industries, they are being applied to:
   - Improve customer experiences.
   - Automate content creation.

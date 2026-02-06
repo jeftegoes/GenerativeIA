@@ -1,4 +1,4 @@
-# RPA <!-- omit in toc -->
+# RPA - Robotic Process Automation <!-- omit in toc -->
 
 ## Contents <!-- omit in toc -->
 

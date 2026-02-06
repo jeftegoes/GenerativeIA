@@ -1,0 +1,70 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="KkCjRf2YoEtKGPJx_fUV">
+    <mxGraphModel dx="1106" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JSnb-DKFAHNfeDT8GC-o-18" value="&amp;nbsp;0.8&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="JSnb-DKFAHNfeDT8GC-o-19" target="JSnb-DKFAHNfeDT8GC-o-24">
+          <mxGeometry x="-0.3628" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JSnb-DKFAHNfeDT8GC-o-19" value="-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="59" y="468" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JSnb-DKFAHNfeDT8GC-o-20" value="&amp;nbsp;0&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="JSnb-DKFAHNfeDT8GC-o-21" target="JSnb-DKFAHNfeDT8GC-o-24">
+          <mxGeometry x="-0.3629" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JSnb-DKFAHNfeDT8GC-o-21" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="59" y="608" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JSnb-DKFAHNfeDT8GC-o-22" value="&amp;nbsp;0.1&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSnb-DKFAHNfeDT8GC-o-23" target="JSnb-DKFAHNfeDT8GC-o-24">
+          <mxGeometry x="-0.1818" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JSnb-DKFAHNfeDT8GC-o-23" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="59" y="538" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JSnb-DKFAHNfeDT8GC-o-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="548" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSnb-DKFAHNfeDT8GC-o-25" value="∑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="359" y="548" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSnb-DKFAHNfeDT8GC-o-26" value="f" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="419" y="548" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSnb-DKFAHNfeDT8GC-o-27" value="Step&lt;div&gt;function&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="429" y="573" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JSnb-DKFAHNfeDT8GC-o-28" value="Sum&lt;div&gt;function&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="339" y="573" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JSnb-DKFAHNfeDT8GC-o-29" value="Inputs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="54" y="428" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSnb-DKFAHNfeDT8GC-o-30" value="Weights" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="164" y="428" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSnb-DKFAHNfeDT8GC-o-31" value="sum =&amp;nbsp;&lt;span data-processed=&quot;true&quot; class=&quot;mTEjhd&quot;&gt;&lt;span data-processed=&quot;true&quot; class=&quot;dteT0b&quot;&gt;&lt;div data-processed=&quot;true&quot; style=&quot;position: relative; direction: ltr;display: inline-block;&quot; data-xpm-copy-root=&quot;&quot;&gt;&lt;img data-processed=&quot;true&quot; data-aatf=&quot;1&quot; data-imglogged=&quot;true&quot; style=&quot;pointer-events: none; position: absolute; height: 100%; width: 100%; left: 0; top: 0;&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==&quot; role=&quot;presentation&quot; draggable=&quot;false&quot; data-xpm-latex=&quot;\sum _{i=1}^{n}x_{i}\cdot w_{i}&quot; aria-hidden=&quot;true&quot;&gt;&lt;div data-processed=&quot;true&quot; style=&quot;inset: 0px; opacity: 0.001; overflow: hidden; position: absolute; user-select: none;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow&gt;&lt;munderover&gt;&lt;mo movablelimits=&quot;true&quot; largeop=&quot;true&quot;&gt;∑&lt;/mo&gt;&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/munderover&gt;&lt;msub&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;/msub&gt;&lt;mo&gt;⋅&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;w&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;/msub&gt;&lt;/mrow&gt;sum from i equals 1 to n of x sub i center dot w sub i&lt;/math&gt;&lt;/div&gt;&lt;svg style=&quot;vertical-align: -1.1648em; overflow: visible; user-select: none;&quot; viewBox=&quot;0 -1.6303 4.0626 2.795&quot; height=&quot;2.795em&quot; width=&quot;4.0626em&quot; direction=&quot;ltr&quot; aria-hidden=&quot;true&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;text transform=&quot;translate(0.4596,-1.2995)&quot; style=&quot;font-family: XITSMath-Regular; font-size: 0.75px&quot; fill=&quot;#0A0A0A&quot;&gt;𝑛&lt;/text&gt;&lt;text transform=&quot;translate(0.085,1.1565)&quot; style=&quot;font-family: XITSMath-Regular; font-size: 0.75px&quot; fill=&quot;#0A0A0A&quot;&gt;𝑖&lt;/text&gt;&lt;text transform=&quot;translate(0.3183,1.1565)&quot; style=&quot;font-family: XITSMath-Regular; font-size: 0.75px&quot; fill=&quot;#0A0A0A&quot;&gt;=&lt;/text&gt;&lt;text transform=&quot;translate(0.832,1.1565)&quot; style=&quot;font-family: XITSMath-Regular; font-size: 0.75px&quot; fill=&quot;#0A0A0A&quot;&gt;1&lt;/text&gt;&lt;text transform=&quot;translate(1.4587,0)&quot; style=&quot;font-family: XITSMath-Regular; font-size: 1px&quot; fill=&quot;#0A0A0A&quot;&gt;𝑥&lt;/text&gt;&lt;text transform=&quot;translate(2.0087,0.25)&quot; style=&quot;font-family: XITSMath-Regular; font-size: 0.75px&quot; fill=&quot;#0A0A0A&quot;&gt;𝑖&lt;/text&gt;&lt;text transform=&quot;translate(2.5051,0)&quot; style=&quot;font-family: XITSMath-Regular; font-size: 1px&quot; fill=&quot;#0A0A0A&quot;&gt;⋅&lt;/text&gt;&lt;text transform=&quot;translate(3.0134,0)&quot; style=&quot;font-family: XITSMath-Regular; font-size: 1px&quot; fill=&quot;#0A0A0A&quot;&gt;𝑤&lt;/text&gt;&lt;text transform=&quot;translate(3.7884,0.25)&quot; style=&quot;font-family: XITSMath-Regular; font-size: 0.75px&quot; fill=&quot;#0A0A0A&quot;&gt;𝑖&lt;/text&gt;&lt;path transform=&quot;translate(0,0.4995) scale(0.001,-0.001)&quot; fill=&quot;#0A0A0A&quot; d=&quot;M1202 465H1163C1127 301 1058 232 919 232H351L821 845L410 1409H787C822 1409 865 1408 893 1404C960 1396 1027 1344 1055 1213C1059 1193 1066 1167 1066 1148H1102V1499H126L647 784L90 49H1128Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/div&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="566" y="393" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JSnb-DKFAHNfeDT8GC-o-32" value="sum = (-1 * 0.8) + (7 * 0.1) + (5 * 0)&lt;div&gt;sum = -0.8 + 0.7 + 0&lt;/div&gt;&lt;div&gt;sum = -0.1&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="576" y="433" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JSnb-DKFAHNfeDT8GC-o-33" value="x = inputs&lt;div&gt;w = weights&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="676" y="398" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JSnb-DKFAHNfeDT8GC-o-34" value="&lt;ul&gt;&lt;li&gt;Sum function = 0&lt;/li&gt;&lt;li&gt;Step function&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Greater or equal to 1 = 1&lt;/li&gt;&lt;li&gt;Otherwise = 0&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="566" y="608" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JSnb-DKFAHNfeDT8GC-o-35" value="Perceptron Output = 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="519" y="548" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
