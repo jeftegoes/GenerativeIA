@@ -87,10 +87,10 @@
 ## 2.4. Structure of a Neuron
 
 - A neuron has four main components:
-  1. **Dendrites** – receive data from other neurons.
-  2. **Cell body** – processes the received data.
-  3. **Axon** – transmits signals to other neurons.
-  4. **Axon terminals** – send signals to connected neurons.
+  1. **Dendrites** - receive data from other neurons.
+  2. **Cell body** - processes the received data.
+  3. **Axon** - transmits signals to other neurons.
+  4. **Axon terminals** - send signals to connected neurons.
 - Together, these components allow the neuron to function as an **information processing unit**.
   ![Structure of a Neuron](/Images/StructureNeuron.png)
 
@@ -164,12 +164,14 @@ The perceptron is trained to learn the **AND** logical operator:
 
 ## 3.8. Single-Layer Perceptron
 
-![alt](/Images/SingleLayerPerceptron.png)
+![Single-Layer Perceptron](/Images/SingleLayerPerceptron.png)
 
 ## 3.9. Linear Separability
 
 - **AND** and **OR** operators are **linearly separable** (can be separated by a straight line).
 - **XOR** is **not linearly separable**, meaning a single straight line cannot separate its classes.
+
+![Single-Layer Perceptron Cartesian Plane](/Images/SingleLayerPerceptronCartesianPlane.png)
 
 ## 3.10. Limitation of Single-Layer Perceptrons
 

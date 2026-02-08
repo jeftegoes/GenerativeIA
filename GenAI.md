@@ -23,6 +23,7 @@
   - [3.8. LexisNexis - Legal Research \& Knowledge Work](#38-lexisnexis---legal-research--knowledge-work)
   - [3.9. Inspection1 - AI-Driven Quality Inspection (Automotive)](#39-inspection1---ai-driven-quality-inspection-automotive)
   - [3.10. BrowserStack - Software Testing \& QA Automation](#310-browserstack---software-testing--qa-automation)
+- [4. Key Takeaway](#4-key-takeaway)
 
 # 1. What GenAI Is
 
@@ -138,7 +139,7 @@
   - 1,200+ appliance models
   - Up to 40 failure types per model
 - Results:
-  - **8–10% reduction in service time**
+  - **8-10% reduction in service time**
   - Saves **83 work hours per day**
 
 ## 3.4. Adobe - Creawtive Productivity & Collaboration
@@ -170,7 +171,7 @@
 - Results:
   - **10x increase** in AR adoption
   - Reduced product returns
-  - Stock price doubled between 2023–2025
+  - Stock price doubled between 2023-2025
 
 ## 3.7. BMW - Connected Vehicles & Personalized Experiences
 
@@ -219,10 +220,11 @@
   - **60% lower test maintenance**
   - Up to **30% faster time to market**
 
-- **Key Takeaway**
-  - AI is no longer experimental—it is delivering **massive, measurable value today**.
-  - Across finance, healthcare, retail, manufacturing, legal, and software, AI:
-    - Boosts productivity
-    - Reduces costs
-    - Improves quality and speed
-  - These examples provide a blueprint for identifying how AI can drive impact in your own industry.
+# 4. Key Takeaway
+
+- AI is no longer experimental—it is delivering **massive, measurable value today**.
+- Across finance, healthcare, retail, manufacturing, legal, and software, AI:
+  - Boosts productivity
+  - Reduces costs
+  - Improves quality and speed
+- These examples provide a blueprint for identifying how AI can drive impact in your own industry.

@@ -28,7 +28,7 @@
   - [9.6. How Transformers Changed Everything](#96-how-transformers-changed-everything)
   - [9.7. Impact on LLM Capabilities](#97-impact-on-llm-capabilities)
   - [9.8. Business and Innovation Potential](#98-business-and-innovation-potential)
-  - [9.9. Key Takeaway](#99-key-takeaway)
+- [10. Key Takeaway](#10-key-takeaway)
 
 # 1. Definition
 
@@ -209,7 +209,7 @@
   - Deeper insight from unstructured data
   - New opportunities for innovation across industries
 
-## 9.9. Key Takeaway
+# 10. Key Takeaway
 
 - LLMs are powerful not because they think, but because **transformers allow them to understand context at scale**.
 - This contextual understanding is what elevates LLMs beyond conventional models and fuels their impact on business and technology.

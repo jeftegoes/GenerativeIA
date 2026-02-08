@@ -26,7 +26,7 @@
 # 3. Importance of Unstructured Data
 
 - Humans primarily communicate using **unstructured data**, especially natural language.
-- Unstructured data represents **70%–90% of all data in the world**.
+- Unstructured data represents **70% - 90% of all data in the world**.
 - Most of it contains text, either written or spoken.
 
 # 4. Value of Unstructured Data

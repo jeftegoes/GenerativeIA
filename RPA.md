@@ -130,7 +130,7 @@
 - Human error increases with fatigue and repetitive manual work.
 - RPA systems:
   - Have error rates of **less than 0.1%**
-  - Can reduce process errors by **95–99%**
+  - Can reduce process errors by **95% - 99%**
 - This is especially valuable for data entry and compliance-driven processes.
 
 ## 2.4. Speed and Efficiency
@@ -273,7 +273,7 @@
   - Credit card cancellations
   - Audits
 - Results:
-  - Audit time reduced from **6–7 hours to under 1 minute**
+  - Audit time reduced from **6-7 hours to under 1 minute**
   - Payment processing reduced from **10 minutes to 20 seconds**
 - Major gains in speed and efficiency
 

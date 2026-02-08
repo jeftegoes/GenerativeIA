@@ -111,7 +111,7 @@
 2. **Google (DeepMind) - Data Center Energy**
    - Reduced cooling energy usage by **up to 40%**.
 3. **Decision Service - Digital Advertising**
-   - 25–30% CTR improvement.
+   - 25 - 30% CTR improvement.
    - 18% revenue lift.
 4. **Trendyol - Email Marketing**
    - +30% CTR.
