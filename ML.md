@@ -1,4 +1,4 @@
-# ML <!-- omit in toc -->
+# ML - Machine Learning <!-- omit in toc -->
 
 ## Contents <!-- omit in toc -->
 
@@ -10,6 +10,7 @@
 - [2. Core Types of Machine Learning Algorithms](#2-core-types-of-machine-learning-algorithms)
   - [2.1. Regression](#21-regression)
   - [2.2. Classification](#22-classification)
+    - [2.2.1. Alghoritms (models)](#221-alghoritms-models)
   - [2.3. Clustering](#23-clustering)
   - [2.4. Association Rule Learning](#24-association-rule-learning)
 - [3. Real-World Machine Learning Use Cases](#3-real-world-machine-learning-use-cases)
@@ -81,13 +82,23 @@
 
 - Assigns data into **predefined categories**.
 - Requires **labeled historical data** (supervised learning).
-- Example:
+- **Example**
   - Predicting whether a customer will churn or not.
 - Scales well to high-dimensional data where human visualization is impossible.
-- Used in:
-  - Fraud detection
-  - Customer retention
-  - Credit risk analysis
+- **Used in**
+  - Fraud detection.
+  - Customer retention.
+  - Credit risk analysis.
+
+### 2.2.1. Alghoritms (models)
+
+- Naive Bayes.
+- Decision trees.
+- Rule based.
+- kNN.
+- SVN.
+- Logistic regression.
+- Crossvalidation.
 
 ## 2.3. Clustering
 
