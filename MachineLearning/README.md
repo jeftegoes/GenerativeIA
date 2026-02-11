@@ -32,19 +32,19 @@
 
 ## 1.2. Machine Learning Within AI
 
-- Hierarchy of concepts:
-  - **Artificial Intelligence (AI)** -> broad field
-    - **Machine Learning (ML)** -> learning from data
-      - **Deep Learning (DL)** -> neural networks with many layers
+- **Hierarchy of concepts**
+  - **Artificial Intelligence (AI)** -> broad field.
+    - **Machine Learning (ML)** -> learning from data.
+      - **Deep Learning (DL)** -> neural networks with many layers.
 - These terms are often confused, but ML is a **subset of AI**, and deep learning is a **subset of ML**.
 
 ## 1.3. Why ML Is Booming Now
 
 - Machine learning has existed for decades.
 - Recent growth is driven by:
-  - Faster computers
-  - Cheaper storage
-  - Massive data availability
+  - Faster computers.
+  - Cheaper storage.
+  - Massive data availability.
 - Today, organizations can process huge datasets and extract value at scale.
 
 ## 1.4. Why Businesses Use Machine Learning
@@ -55,27 +55,27 @@
   - **Cost reduction**
 - Machine learning supports all three:
   - **Innovation**
-    - Example: Google’s spam detection improves email experience automatically.
+    - **Example:** Google’s spam detection improves email experience automatically.
   - **Marketing**
-    - Example: Amazon’s recommendation engine increases revenue by **~25%**.
+    - **Example:** Amazon’s recommendation engine increases revenue by **~25%**.
   - **Cost Reduction**
-    - Example: JPMorgan replaced **360,000 hours of legal work per year** with a single ML system.
+    - **Example:** JPMorgan replaced **360,000 hours of legal work per year** with a single ML system.
 
 # 2. Core Types of Machine Learning Algorithms
 
 ## 2.1. Regression
 
 - Used to predict **continuous numeric values**.
-- Examples:
-  - Revenue
-  - Expenses
-  - Mileage
-  - Weight
-- Types:
-  - Simple Linear Regression (one input variable)
-  - Multiple Linear Regression (many input variables)
-  - Polynomial Regression (non-linear relationships)
-- Business example:
+- **Examples**
+  - Revenue.
+  - Expenses.
+  - Mileage.
+  - Weight.
+- **Types**
+  - Simple Linear Regression (one input variable).
+  - Multiple Linear Regression (many input variables).
+  - Polynomial Regression (non-linear relationships).
+- **Business example**
   - Predicting revenue based on customer satisfaction, competitors, or weather.
 
 ## 2.2. Classification

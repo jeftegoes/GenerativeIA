@@ -62,7 +62,7 @@
 
 ## 1.8. ML - Machine Learning
 
-[ML](ML.md)
+[ML](/MachineLearning/README.md)
 
 # 2. Biological Fundamentals of Human Neural Networks
 
