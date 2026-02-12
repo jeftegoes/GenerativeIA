@@ -168,15 +168,15 @@
 ## 9.3. The Transformer Architecture
 
 - LLMs are built on an architecture called the **transformer**, developed by researchers at **Google**.
-- The transformer’s defining strength is its ability to **understand and maintain context across long sequences of text**.
+- The transformer's defining strength is its ability to **understand and maintain context across long sequences of text**.
 
 ## 9.4. Why Context Matters
 
 - Meaning in language is highly dependent on context.
 - Consider the sentence:
-  - _"The dog didn’t cross the street because it was too tired."_
+  - _"The dog didn't cross the street because it was too tired."_
     - Here, **"it" refers to the dog**.
-  - _"The dog didn’t cross the street because it was too wide."_
+  - _"The dog didn't cross the street because it was too wide."_
     - In this case, **"it" refers to the street**.
 - A single word change completely alters the meaning.
 

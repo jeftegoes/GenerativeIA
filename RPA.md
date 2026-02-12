@@ -158,7 +158,7 @@
 
 ## 2.7. Improved Employee Morale
 
-- RPA removes repetitive, low-value tasks from employees’ workloads.
+- RPA removes repetitive, low-value tasks from employees' workloads.
 - Employees can focus on:
   - Creative work
   - Problem-solving
@@ -201,7 +201,7 @@
 - Risk:
   - Attempting to automate unsuitable processes often leads to failed RPA projects.
 - Best practice:
-  - Carefully select processes that match RPA’s strengths.
+  - Carefully select processes that match RPA's strengths.
 
 ## 3.3. Poor Change Management
 

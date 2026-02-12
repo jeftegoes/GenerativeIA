@@ -134,7 +134,7 @@
    - If the sum ≥ 1, output = 1
    - Otherwise, output = 0
 
-- This process defines the perceptron’s prediction.
+- This process defines the perceptron's prediction.
   ![Artificial Neuron -> Perceptron = 1](/Images/ArtificialNeuron_1.png)
   ![Artificial Neuron -> Perceptron = 0](/Images/ArtificialNeuron_2.png)
 
