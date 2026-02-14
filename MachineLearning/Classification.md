@@ -32,15 +32,7 @@
 
 # 1. Introduction
 
-- Assigns data into **predefined categories**.
-- Requires **labeled historical data** (supervised learning).
-- **Example**
-  - Predicting whether a customer will churn or not.
-- Scales well to high-dimensional data where human visualization is impossible.
-- **Used in**
-  - Fraud detection.
-  - Customer retention.
-  - Credit risk analysis.
+- **Classification** is a machine learning task used to **predict categories (classes)** based on historical data.
 
 # 2. Study Case
 
@@ -99,6 +91,9 @@
 - Detecting **spam emails**.
 - Predicting if a customer will **buy a product**.
 - Classifying **text or images**.
+- Fraud detection.
+- Customer retention.
+- Credit risk analysis.
 
 ### 3.1.3. Use case result
 
@@ -131,8 +126,8 @@
   - Which feature should be at the **top** (most important).
   - How to split the data into branches.
 - **The main calculations used are**
-  - **Entropy** → Measures disorder or uncertainty in the data.
-  - **Information Gain** → Measures how useful a feature is for classification.
+  - **Entropy** -> Measures disorder or uncertainty in the data.
+  - **Information Gain** -> Measures how useful a feature is for classification.
 - The **most significant features appear near the top** of the tree.
 - Some features may **not appear at all** if they are not relevant for prediction.
 
@@ -173,11 +168,11 @@
    - It analyzes patterns and relationships between features and the final class (risk).
 2. **Generate Rules**
    - After mathematical analysis, the model creates rules such as:
-     - **IF** Income ≥ 35 AND Credit History = Good → **Risk = Low**
-     - **IF** Income ≥ 35 AND Credit History = Unknown → **Risk = Low**
+     - **IF** Income ≥ 35 AND Credit History = Good -> **Risk = Low**
+     - **IF** Income ≥ 35 AND Credit History = Unknown -> **Risk = Low**
 3. **Create a Default Rule**
    - A fallback rule is defined for cases where no other rule applies:
-     - **DEFAULT → Risk = High**
+     - **DEFAULT -> Risk = High**
 4. **Classify New Data**
    - For a new customer, the system checks each rule in order.
    - The first rule that matches the data is applied.

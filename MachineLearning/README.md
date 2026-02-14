@@ -64,18 +64,7 @@
 
 ## 2.1. Regression
 
-- Used to predict **continuous numeric values**.
-- **Examples**
-  - Revenue.
-  - Expenses.
-  - Mileage.
-  - Weight.
-- **Types**
-  - Simple Linear Regression (one input variable).
-  - Multiple Linear Regression (many input variables).
-  - Polynomial Regression (non-linear relationships).
-- **Business example**
-  - Predicting revenue based on customer satisfaction, competitors, or weather.
+[Regression](Regression.md)
 
 ## 2.2. Classification
 
@@ -83,25 +72,20 @@
 
 ## 2.3. Clustering
 
-- Groups data based on **natural similarities**.
-- No predefined labels (unsupervised learning).
-- Used to discover **hidden patterns**.
-- Example:
-  - Identifying different usage patterns in mining trucks.
-- Insights are interpreted **after** clusters are formed.
+[Clustering](Clustering.md)
 
 ## 2.4. Association Rule Learning
 
 - Finds relationships between items or events.
 - Answers questions like:
   - "If someone buys X, what else are they likely to buy?"
-- Famous example:
+- **Famous example**
   - Diapers and beer
-- Widely used by:
+- **Widely used by**
   - Amazon
   - Netflix
   - Walmart
-- Drives:
+- **Drives**
   - Cross-selling
   - Personalized recommendations
   - Customer experience optimization
