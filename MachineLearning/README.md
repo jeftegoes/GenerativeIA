@@ -8,8 +8,8 @@
   - [1.3. Why ML Is Booming Now](#13-why-ml-is-booming-now)
   - [1.4. Why Businesses Use Machine Learning](#14-why-businesses-use-machine-learning)
 - [2. Core Types of Machine Learning Algorithms](#2-core-types-of-machine-learning-algorithms)
-  - [2.1. Regression](#21-regression)
-  - [2.2. Classification](#22-classification)
+  - [2.1. Classification](#21-classification)
+  - [2.2. Regression](#22-regression)
   - [2.3. Clustering](#23-clustering)
   - [2.4. Association Rule Learning](#24-association-rule-learning)
 - [3. Real-World Machine Learning Use Cases](#3-real-world-machine-learning-use-cases)
@@ -62,13 +62,13 @@
 
 # 2. Core Types of Machine Learning Algorithms
 
-## 2.1. Regression
-
-[Regression](Regression.md)
-
-## 2.2. Classification
+## 2.1. Classification
 
 [Classification](Classification.md)
+
+## 2.2. Regression
+
+[Regression](Regression.md)
 
 ## 2.3. Clustering
 
