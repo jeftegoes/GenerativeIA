@@ -1,0 +1,45 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Page-1" id="BVkWMIKlGhfyr--bEhh8">
+    <mxGraphModel dx="1224" dy="1226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xtN8Hvg8dsXBsGGBLTLE-9" edge="1" parent="1" source="xtN8Hvg8dsXBsGGBLTLE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xtN8Hvg8dsXBsGGBLTLE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtN8Hvg8dsXBsGGBLTLE-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="front-end-fact-checker" vertex="1">
+          <mxGeometry height="70" width="140" x="370" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="xtN8Hvg8dsXBsGGBLTLE-5" edge="1" parent="1" source="xtN8Hvg8dsXBsGGBLTLE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xtN8Hvg8dsXBsGGBLTLE-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xtN8Hvg8dsXBsGGBLTLE-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="back-end-fact-checker" vertex="1">
+          <mxGeometry height="70" width="140" x="370" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="xtN8Hvg8dsXBsGGBLTLE-6" edge="1" parent="1" source="xtN8Hvg8dsXBsGGBLTLE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xtN8Hvg8dsXBsGGBLTLE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtN8Hvg8dsXBsGGBLTLE-3" parent="1" style="whiteSpace=wrap;html=1;" value="job-fact-check-crawler" vertex="1">
+          <mxGeometry height="80" width="150" x="370" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="xtN8Hvg8dsXBsGGBLTLE-4" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="fact-checker-db" vertex="1">
+          <mxGeometry height="80" width="60" x="630" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="xtN8Hvg8dsXBsGGBLTLE-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ml-fact-verification-engine" vertex="1">
+          <mxGeometry height="70" width="180" x="800" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="xtN8Hvg8dsXBsGGBLTLE-8" edge="1" parent="1" source="xtN8Hvg8dsXBsGGBLTLE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="xtN8Hvg8dsXBsGGBLTLE-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
