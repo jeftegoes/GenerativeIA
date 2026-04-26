@@ -1,5 +1,5 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
-  <diagram name="Page-1" id="BVkWMIKlGhfyr--bEhh8">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6" pages="2">
+  <diagram name="Architecture" id="BVkWMIKlGhfyr--bEhh8">
     <mxGraphModel dx="1224" dy="1226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -8,36 +8,90 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xtN8Hvg8dsXBsGGBLTLE-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="front-end-fact-checker" vertex="1">
-          <mxGeometry height="70" width="140" x="370" y="310" as="geometry" />
+          <mxGeometry height="70" width="140" x="170" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="xtN8Hvg8dsXBsGGBLTLE-5" edge="1" parent="1" source="xtN8Hvg8dsXBsGGBLTLE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xtN8Hvg8dsXBsGGBLTLE-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="660" y="550" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="RYRDB6RHRqBdn5pXQWFW-3" edge="1" parent="1" source="xtN8Hvg8dsXBsGGBLTLE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xtN8Hvg8dsXBsGGBLTLE-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xtN8Hvg8dsXBsGGBLTLE-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="back-end-fact-checker" vertex="1">
-          <mxGeometry height="70" width="140" x="370" y="515" as="geometry" />
+          <mxGeometry height="70" width="140" x="410" y="540" as="geometry" />
         </mxCell>
         <mxCell id="xtN8Hvg8dsXBsGGBLTLE-6" edge="1" parent="1" source="xtN8Hvg8dsXBsGGBLTLE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xtN8Hvg8dsXBsGGBLTLE-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xtN8Hvg8dsXBsGGBLTLE-3" parent="1" style="whiteSpace=wrap;html=1;" value="job-fact-check-crawler" vertex="1">
-          <mxGeometry height="80" width="150" x="370" y="730" as="geometry" />
+          <mxGeometry height="80" width="150" x="410" y="690" as="geometry" />
         </mxCell>
         <mxCell id="xtN8Hvg8dsXBsGGBLTLE-4" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="fact-checker-db" vertex="1">
-          <mxGeometry height="80" width="60" x="630" y="730" as="geometry" />
+          <mxGeometry height="80" width="60" x="670" y="690" as="geometry" />
         </mxCell>
         <mxCell id="xtN8Hvg8dsXBsGGBLTLE-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ml-fact-verification-engine" vertex="1">
-          <mxGeometry height="70" width="180" x="800" y="735" as="geometry" />
+          <mxGeometry height="70" width="180" x="840" y="695" as="geometry" />
         </mxCell>
         <mxCell id="xtN8Hvg8dsXBsGGBLTLE-8" edge="1" parent="1" source="xtN8Hvg8dsXBsGGBLTLE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="xtN8Hvg8dsXBsGGBLTLE-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="850" y="770" />
+              <mxPoint x="890" y="730" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RYRDB6RHRqBdn5pXQWFW-2" edge="1" parent="1" source="RYRDB6RHRqBdn5pXQWFW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xtN8Hvg8dsXBsGGBLTLE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYRDB6RHRqBdn5pXQWFW-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Usuário" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="Bey_q6YfhSnJArcXyc6_-2" edge="1" parent="1" source="Bey_q6YfhSnJArcXyc6_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xtN8Hvg8dsXBsGGBLTLE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bey_q6YfhSnJArcXyc6_-1" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="https://factchecktools.googleapis.com/v1alpha1/claims:search?" vertex="1">
+          <mxGeometry height="110" width="465" x="390" y="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KXGyER6OoTsvqR9yhuRY" name="ERD - Entity-Relationship Diagram">
+    <mxGraphModel dx="1224" dy="1226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GXvEL4ReGmE5q_oT7zoR-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="350" width="330" x="70" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="GXvEL4ReGmE5q_oT7zoR-7" edge="1" parent="1" source="GXvEL4ReGmE5q_oT7zoR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="GXvEL4ReGmE5q_oT7zoR-5" value="&amp;nbsp;1 .. N&amp;nbsp;">
+          <mxGeometry relative="1" x="-0.3333" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXvEL4ReGmE5q_oT7zoR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="claims" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="GXvEL4ReGmE5q_oT7zoR-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="publishers" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="GXvEL4ReGmE5q_oT7zoR-9" edge="1" parent="1" source="GXvEL4ReGmE5q_oT7zoR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="GXvEL4ReGmE5q_oT7zoR-4" value="1 .. 1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GXvEL4ReGmE5q_oT7zoR-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="claim_reviews" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="GXvEL4ReGmE5q_oT7zoR-11" edge="1" parent="1" source="GXvEL4ReGmE5q_oT7zoR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GXvEL4ReGmE5q_oT7zoR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GXvEL4ReGmE5q_oT7zoR-10" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="https://factchecktools.googleapis.com/v1alpha1/claims:search?" vertex="1">
+          <mxGeometry height="110" width="465" x="2.5" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="GXvEL4ReGmE5q_oT7zoR-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="360" width="390" x="425" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="GXvEL4ReGmE5q_oT7zoR-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="trained_claim_reviews" vertex="1">
+          <mxGeometry height="60" width="150" x="545" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="GXvEL4ReGmE5q_oT7zoR-19" edge="1" parent="1" source="GXvEL4ReGmE5q_oT7zoR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GXvEL4ReGmE5q_oT7zoR-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GXvEL4ReGmE5q_oT7zoR-18" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="ml-fact-verification-engine" vertex="1">
+          <mxGeometry height="80" width="80" x="580" y="275" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
