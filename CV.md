@@ -74,22 +74,22 @@
 
 - Uses **Convolutional Neural Networks (CNNs)**.
 - Learns features automatically from data.
-- Process:
-  - Trained on large volumes of **labeled images**
-  - Learns distinguishing features on its own
-- Advantages:
-  - Handles complex and custom tasks
-  - Adapts to new patterns and environments
-- Best used when:
-  - Classical methods are insufficient
-  - The task requires deeper understanding
+- **Process**
+  - Trained on large volumes of **labeled images**.
+  - Learns distinguishing features on its own.
+- **Advantages**
+  - Handles complex and custom tasks.
+  - Adapts to new patterns and environments.
+- **Best used when**
+  - Classical methods are insufficient.
+  - The task requires deeper understanding.
 
 # 4. Example: Tomato Sorting with Computer Vision
 
 ## 4.1. Traditional Approach
 
 - Humans manually inspect tomatoes on a conveyor belt.
-- Drawbacks:
+- **Drawbacks**
   - Labor costs
   - Human error
   - Slower processing

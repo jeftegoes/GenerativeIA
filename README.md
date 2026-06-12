@@ -62,7 +62,7 @@
 
 ## 1.8. ML - Machine Learning
 
-[ML](/MachineLearning/README.md)
+[ML](https://github.com/jeftegoes/MachineLearningOverviewAndExamples)
 
 # 2. Biological Fundamentals of Human Neural Networks
 

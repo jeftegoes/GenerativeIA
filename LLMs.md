@@ -43,9 +43,9 @@
 # 3. Everyday Applications
 
 - LLMs power many common digital interactions, such as:
-  - Article and document summarization
-  - Email and text auto-completion
-  - Virtual assistants and chatbots
+  - Article and document summarization.
+  - Email and text auto-completion.
+  - Virtual assistants and chatbots.
 - These capabilities make them increasingly **embedded in daily digital experiences**.
 
 # 4. Advanced Use Cases
